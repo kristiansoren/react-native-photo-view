@@ -28,7 +28,6 @@ export default class PhotoView extends Component {
         onLoadStart: PropTypes.func,
         onLoad: PropTypes.func,
         onLoadEnd: PropTypes.func,
-        onTap: PropTypes.func,
         onViewTap: PropTypes.func,
         onScale: PropTypes.func,
         ...View.propTypes
